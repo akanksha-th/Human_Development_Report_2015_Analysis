@@ -1,0 +1,30 @@
+The dataset belongs to the following Kaggle link : https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
+### Dataset Information
+
+This dataset contains information about the chemical properties of Portuguese "Vinho Verde" wine and their effects on its quality. The dataset can be used for classification or regression tasks, aiming to predict the quality of wine based on physicochemical tests.
+
+**Features:**
+1. Fixed acidity
+2. Volatile acidity
+3. Citric acid
+4. Residual sugar
+5. Chlorides
+6. Free sulfur dioxide
+7. Total sulfur dioxide
+8. Density
+9. pH
+10. Sulphates
+11. Alcohol
+
+**Target:**
+- Quality (score between 0 and 10)
+
+**Objective:**
+- Clean and understand the dataset.
+- Build and fine-tune classification models to predict wine quality.
+- Compare the evaluation metrics of various classification algorithms.
+
+**Note:** The dataset is imbalanced with more normal quality wines than excellent or poor ones.
+
+**Source:** Available on Kaggle and UCI Machine Learning Repository: [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality).
