@@ -1,0 +1,22 @@
+Source:
+The Books Dataset is sourced from Kaggle: Books Dataset. It comprises of 3 csv files - books.csv, ratings.csv and users.csv.
+
+Column Description of 'books.csv' file:
+    ISBN: The unique identifier for each book.
+    Book-Title: The title of the book.
+    Book-Author: The primary author of the book.
+    Year-Of-Publication: The year the book was published.
+    Publisher: The publisher of the book.
+    Image-URL-S: URL of the small-sized image for the book cover.
+    Image-URL-M: URL of the medium-sized image for the book cover.
+    Image-URL-L: URL of the large-sized image for the book cover.
+
+Column Description of 'ratings.csv' file:
+    User-ID: Unique identifier for each user.
+    ISBN: Unique identifier for each book.
+    Book-Rating: The rating given by the user to the book, on a scale of 1 to 10.
+
+Column Description of 'users.csv' file :
+    User-ID: Unique identifier for each user.
+    Location: The geographical location (city, state and country) of the user.
+    Age: The age of the user.
